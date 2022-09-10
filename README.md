@@ -9,7 +9,7 @@ Test of [MapReduce idea](https://en.wikipedia.org/wiki/MapReduce) on text files.
 I wanted to explore the concept of MapReduce and apply it on simple text files.
 
 ## Example
-I took four Jane Austen books from the [Project Gutemberg](https://www.gutenberg.org/browse/scores/top):
+I took four Jane Austen books from the [Project Gutemberg](https://gutenberg.org/):
 * [Emma](https://www.gutenberg.org/ebooks/158)
 * [Sense and Sensibility](https://www.gutenberg.org/ebooks/161)
 * [Persuasion](https://www.gutenberg.org/ebooks/105)
